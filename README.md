@@ -2,7 +2,7 @@
 IDE for Plain English language
 
 original archive can be found at
-[the original website](osmosian.com/cal-4700.zip)
+[the original website](http://osmosian.com/cal-4700.zip)
 
 although the author does not indicate any license for software, he does not
 prohibit its distribution:
